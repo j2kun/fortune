@@ -1,6 +1,6 @@
 # Twitter fortunes
 
-Move `twitter.dat` to `/usr/local/share/games/fortunes/`
+Move `twitter` and `twitter.dat` to `/usr/local/share/games/fortunes/`
 
 Run `fortune twitter`, or put this command in your shell init file (`.bashrc`, `.zshrc`, etc.).
 
